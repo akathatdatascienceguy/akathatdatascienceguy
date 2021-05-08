@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashVG99
+- 👋 Hi, I’m Yash @akathatdatascienceguy
 - 👀 I am passionate about solving real world problems that involves out-of-the-box thinking and my interests lie at the convergence of Data Science and Autonomous Systems. 
 - 🌱 Research for me instills a feeling that surpasses everything else. It provides a way for me to explore and quench my intellectual curiosities. 
 - 💞️ I’m looking to collaborate on projects and competitions related to fields of robotics, deep learning, machine learning and computer vision.
